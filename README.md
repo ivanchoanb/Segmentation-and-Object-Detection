@@ -1,1 +1,1 @@
-# Segmentation-adn-Object-Detection
+# Segmentation-and-Object-Detection
